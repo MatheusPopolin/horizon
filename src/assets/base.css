@@ -1,0 +1,16 @@
+:root {
+  /* Primary Palette */
+  --color-primary: #ff6a00;
+  --color-secondary: #3057F2;
+
+  /* Grey Scale Palette */
+  --color-grey-600: #1B1B2B;
+  --color-grey-400: #12263F;
+  --color-grey-300: #373753;
+  --color-grey-100: #fdf3eb; 
+  --color-grey-0: #FFFFFF;
+  --color-grey-opacity: rgba(27, 27, 43, 0.5);
+
+  --radius-1: 12px;
+  --radius-2: 10px;
+}
